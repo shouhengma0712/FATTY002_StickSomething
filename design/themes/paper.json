@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "纸上工作台",
+  "colors": {
+    "background": "#F2EBDC",
+    "panel": "#E8DECA",
+    "workspace": "#CEC3AC",
+    "text": "#352F24",
+    "muted": "#625848",
+    "border": "#B4A78E",
+    "field": "#F8F3E7",
+    "accent": "#69502D",
+    "onAccent": "#FFF7E8"
+  }
+}

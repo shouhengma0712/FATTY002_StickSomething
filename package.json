@@ -1,0 +1,17 @@
+{
+  "name": "stick-something",
+  "version": "0.2.1-beta.1",
+  "private": true,
+  "type": "module",
+  "description": "A minimal editor inspired by Chinese street advertising stickers.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "release": "node scripts/build.mjs && node scripts/package-release.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

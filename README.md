@@ -3,6 +3,7 @@
 一个以中国街头小广告为视觉来源的贴纸编辑器。
 
 `Fatty Games · v0.2.1-beta.1 · 浏览器内测版`
+下载`release`里的`stick-something-v0.2.1-beta.1-offline-beta.zip`到本地解压开始
 
 ## 0.开始前的一些狡辩
 

@@ -8,7 +8,7 @@
 
 双击 `dist/STICK-SOMETHING.html`，用 Edge 或 Chrome 打开即可。所有脚本、图标、品牌字体已包含在文件里，可以离线使用，无需安装依赖或启动服务器。
 
-这是可编辑内测版本。原开发目录中的 `design/editor-preview.html` 是早期草图，不包含在发布包中。
+这是可编辑内测版本。
 
 ## 开发与 HTTP 预览
 
